@@ -1,2 +1,2 @@
 # data-projects
-A collection of data science projects
+My data science projects
